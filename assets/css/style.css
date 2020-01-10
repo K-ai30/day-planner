@@ -1,0 +1,88 @@
+/*  */
+html, body {
+    background-color: rgb(241, 240, 234);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40pt;
+    
+}
+
+p,
+#intro {
+    text-align: center;
+    font-size: 16pt;
+}
+
+#header {
+    border-bottom: 2px solid black;
+    margin-left: 200px;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+/* Using a Bootstrap Table */
+/* table {
+    border-top: 5px solid black;
+}
+
+th {
+    height: 30px;
+} */
+
+/* Using a Bootstrap Card */
+.card {
+    margin-top: 20px;
+    margin-left: 235px;
+}
+
+.row {
+    height: 100px;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+h5 {
+    text-align: center;
+    font-size: 15pt;
+}
+
+.time { 
+    background-color: white;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* Using Bootstrap Rows */
+.time\cell\col-sm-2 {
+    background-color: white;
+    text-align: right;
+}
+
+#tasks {
+    width: 725px;
+    height: 50px;
+}
+
+.saveIcon {
+    background-color:rgb(2, 120, 175);
+    border-left: 1px solid white;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.fa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
