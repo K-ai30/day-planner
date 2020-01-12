@@ -25,14 +25,10 @@ p,
     margin-top: 25px;
 }
 
-/* Using a Bootstrap Table */
-/* table {
-    border-top: 5px solid black;
+.date {
+    text-align: center;
+    font-size: 14pt;
 }
-
-th {
-    height: 30px;
-} */
 
 /* Using a Bootstrap Card */
 .card {
@@ -64,16 +60,63 @@ h5 {
     text-align: right;
 }
 
-#tasks {
-    width: 725px;
-    height: 50px;
+#tasks9 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks10 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks11 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks12 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks13 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks14 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks15 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks16 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
+}
+
+#tasks17 {
+    width: 760px;
+    height: 58px;
+    border: 1px solid black;
 }
 
 .saveIcon {
     background-color:rgb(2, 120, 175);
     border-left: 1px solid white;
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     text-align: center;
