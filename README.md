@@ -53,12 +53,12 @@ Additional features include the option of saving the list items to local storage
 
 I started building this application for an end-user in an effort to provide a solution to a need to organize work or personal activities daily. To that end, I hope to achieve some future dated development ideas that will enhance the user engagement with the application.
 
-### Contributors
+### Author
 
-The original contributor to this project is the following full stack developer:
+- Alia Kyle Perry (Full Stack Developer) - [Check out my repositories!](https://github.com/K-ai30)
 
-- Alia Kyle Perry
+### Contributing
 
-As such, for major changes, please open an issue first to discuss what you would like to change. Changes will not be made without the consent of the author of this application.
+For major changes, please open an issue first to discuss what you would like to change. Changes will not be made without the consent of the author of this application.
 
 Copyright (c) [2020] [Alia Kyle Perry]
