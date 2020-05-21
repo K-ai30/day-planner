@@ -14,7 +14,17 @@ This functionality would allow for better time management.
 
 ### Installation
 
-Clone to your local machine and open in your favorite code editor to check it out! Or, visit the deployed version at: 
+To run the application locally, you will need to clone the repository to your local machine and open in your favorite code editor to check it out!
+
+HTTPS:
+
+`$ git clone https://github.com/K-ai30/day-planner.git`
+
+SSH:
+
+`$ git clone git@github.com:K-ai30/day-planner.git`
+
+Or, visit the deployed version at:
 
 ### Link
 
